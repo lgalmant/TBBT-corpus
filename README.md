@@ -10,4 +10,4 @@ For a given annotated episode file, each line is a word from the transcript. Sep
 - normalized name of the speaker 
 - entity type of the word, X if not an entity
 - normalized name of the mentionned entity, X if not an entity
-- class of the mentionned entity. 1 for first person, 2 for second person, 3 for third person
+- class of the mentionned entity. 1 for first person, 2 for second person, 3 for third person, X if not an entity
