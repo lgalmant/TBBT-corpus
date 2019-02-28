@@ -1,6 +1,6 @@
-# `The Big Bang Theory` corpus
+# *The Big Bang Theory* corpus
 
-This corpus provides the manual transcripts of all episodes from season 1 to season 10 from the tv series `The Big Bang Theory`, in the `transcripts` folder.
+This corpus provides the manual transcripts of all episodes from season 1 to season 10 from the tv series *The Big Bang Theory*, in the *transcripts* folder.
 Each season folder contains a file for each episode of the season, annotated with name entity recognition.
 
 ## Annotated episode file
